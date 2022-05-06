@@ -1,0 +1,126 @@
+img {
+    margin-left: 30px;
+  }
+  
+  .nav {
+    overflow: hidden;
+    background-color: #009787;
+    width: 15%;
+    height: 65px;
+    float: right;
+    vertical-align: middle;
+  }
+  
+  .nav a {
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial ;
+    letter-spacing: -1px;
+    vertical-align: middle;
+  }
+  
+  .nav a:hover{
+    background-color: #068d7f;
+  }
+  
+  
+  .navbottom {
+    overflow: hidden;
+    background-color: #ddd7d74d;
+    width: 93%;
+    height: 65px;
+    float: right;
+    margin-top: 0px;
+    margin-left: 150px;
+    vertical-align: middle;
+  }
+  
+  .navbottom a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial ;
+    vertical-align: middle;
+  }
+  
+  text-1 {
+    color: #129eb1;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: -50px;
+    font-weight: bold;
+  }
+  
+  #searchbar{
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius: 5px;
+    width: 800px;
+    height: 40px;
+    background-color: rgba(133, 125, 125, 0.199);
+    color: #181515ce;
+    font-style: italic;
+  }
+  
+  .box {
+    margin-left: 0px;
+  }
+  
+  .box2 {
+    color:rgb(41, 168, 58);
+    font-size: 22px;
+    font-style: bold;
+    margin-left: 60%;
+    margin-top: -43%;
+  }
+
+  .box3 {
+    margin-top: 60px;
+    margin-left: 60px;
+    font-size: 25px;
+    color: #009787;
+    line-height: 2;
+  }
+  
+  .box4 {
+    margin-top: 30px;
+    margin-left: -20px;
+    font-size: 18px;
+    color: black;
+    text-decoration: underline black;
+    line-height: 2;
+  }
+  .box5 {
+    margin-top: -14%;
+    margin-left: 40%;
+    font-size: 18px;
+    color: black;
+    text-decoration: underline black;
+    line-height: 2;
+  }
+  
+  .box6 {
+    margin-top: -15%;
+    margin-right: 4%;
+    float: right;
+    font-size: 15px;
+    color: rgb(39, 37, 37);
+}
+
+
+  .projet-box {
+    padding: 2px;
+    width: 800px;
+    height: 140px;
+    font-size: 14px;
+    margin-left: 3%;
+    vertical-align: middle;
+  }
+  
