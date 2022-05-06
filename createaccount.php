@@ -293,7 +293,7 @@
 
       //ENVOI EMAIL
 
-      $from ="no-reply@studycorp.fr";
+      $from ="no-reply@yourdomain.fr";
       $to= $_POST["email"];
       $subject="MyCar | Création de votre compte";
       $message ="Bonjour $nom $prenom ! \n
